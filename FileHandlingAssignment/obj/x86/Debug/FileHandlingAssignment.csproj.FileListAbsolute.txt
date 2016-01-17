@@ -1,0 +1,41 @@
+C:\Users\Timothy\AppData\Local\Temporary Projects\FileHandlingAssignment\bin\Debug\FileHandlingAssignment.exe
+C:\Users\Timothy\AppData\Local\Temporary Projects\FileHandlingAssignment\bin\Debug\FileHandlingAssignment.pdb
+C:\Users\Timothy\AppData\Local\Temporary Projects\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.FrmDialog.resources
+C:\Users\Timothy\AppData\Local\Temporary Projects\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.FrmMain.resources
+C:\Users\Timothy\AppData\Local\Temporary Projects\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.Properties.Resources.resources
+C:\Users\Timothy\AppData\Local\Temporary Projects\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.csproj.GenerateResource.Cache
+C:\Users\Timothy\AppData\Local\Temporary Projects\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.exe
+C:\Users\Timothy\AppData\Local\Temporary Projects\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.pdb
+C:\Users\Timothy\Documents\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.exe
+C:\Users\Timothy\Documents\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.pdb
+C:\Users\Timothy\Documents\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\bin\Debug\FileHandlingAssignment.exe
+C:\Users\Timothy\Documents\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\bin\Debug\FileHandlingAssignment.pdb
+C:\Users\Timothy\Documents\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Timothy\Documents\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.FrmDialog.resources
+C:\Users\Timothy\Documents\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.FrmMain.resources
+C:\Users\Timothy\Documents\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.Properties.Resources.resources
+C:\Users\Timothy\Documents\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.csproj.GenerateResource.Cache
+C:\Users\Timothy\Documents\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.FrmSelect.resources
+C:\Users\Timothy\Documents\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.FrmHelp.resources
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.exe
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.pdb
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\bin\Debug\FileHandlingAssignment.exe
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\bin\Debug\FileHandlingAssignment.pdb
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.FrmEntry.resources
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.FrmHelp.resources
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.FrmMain.resources
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.FrmSelect.resources
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.Properties.Resources.resources
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\FileHandlingAssignment\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.csproj.GenerateResource.Cache
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\InventoryTracker\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.exe
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\InventoryTracker\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.pdb
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\InventoryTracker\FileHandlingAssignment\bin\Debug\FileHandlingAssignment.exe
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\InventoryTracker\FileHandlingAssignment\bin\Debug\FileHandlingAssignment.pdb
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\InventoryTracker\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\InventoryTracker\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.FrmEntry.resources
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\InventoryTracker\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.FrmHelp.resources
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\InventoryTracker\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.FrmMain.resources
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\InventoryTracker\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.FrmSelect.resources
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\InventoryTracker\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.Properties.Resources.resources
+C:\Users\Timothy S\Documents\School\High School\ICS4UE\Unit 11\Activities\InventoryTracker\FileHandlingAssignment\obj\x86\Debug\FileHandlingAssignment.csproj.GenerateResource.Cache
